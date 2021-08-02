@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "815219239415",
+    "project_id": "esgul-flutter-firebase",
+    "storage_bucket": "esgul-flutter-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:815219239415:android:4c576a227df91bfd10a6f2",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "815219239415-4kmm58vba5c3820oo0mpnbtavn1aq03l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhx0kdRUfM054gQo7dbMtXA7Yv5pNmSAU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "815219239415-4kmm58vba5c3820oo0mpnbtavn1aq03l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
